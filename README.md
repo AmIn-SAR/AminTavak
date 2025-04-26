@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amin Tavakkoli
+- 👋 Hi, I’m Amin Tavakkoli
 - 👀 I’m interested in InSAR and RS
 - 🌱 I’m currently learning InSAR and large data processing
 - 💞️ I’m looking to collaborate on Large scale programing and data processing 
